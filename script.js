@@ -7,6 +7,9 @@ const rates = {
   AUD: 1.53,
   CAD: 1.36,
   CHF: 0.92,
+  KRW: 1350,
+  SGD: 1.34,
+  RUB: 90,
 };
 
 const currencies = Object.keys(rates);
